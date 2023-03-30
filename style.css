@@ -1,0 +1,12 @@
+input{
+    background-color: aquamarine;
+    width: 500px;
+    height: 50px;
+}
+
+
+#result {
+    background: red;
+    width: 500px;
+    height: 50px;
+  }
